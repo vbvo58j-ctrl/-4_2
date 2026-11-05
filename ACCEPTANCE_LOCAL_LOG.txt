@@ -1,0 +1,11 @@
+
+===== STATIC_SOURCE_AND_RESOURCES =====
+STATIC_DART_BALANCE=PASS; DART_FILES=19
+ICON_AND_XML=PASS
+NOTE: static check is NOT a Dart compiler; run Flutter analyze/build too.
+PASS: STATIC_SOURCE_AND_RESOURCES
+FAIL: Flutter SDK was not found in PATH; cannot verify the Android build
+
+========== ACCEPTANCE SUMMARY ==========
+PASS=1 FAIL=1 SKIPPED=4
+The build is NOT verified. Read the failing lines above.
